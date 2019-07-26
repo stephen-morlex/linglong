@@ -3,7 +3,7 @@
      <h2
         class="flex items-center justify-center font-semibold uppercase text-purple-600 text-2xl mb-8 border-b-2 border-gray-800 p-4 xl:text-3xl"
       >Contact Me</h2>
-    <form class="w-full sm:mb-0" data-netlify="true">
+    <form class="w-full sm:mb-0" method="post" data-netlify="true">
 
       <div class="flex flex-wrap -mx-3 mb-6">
         <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">

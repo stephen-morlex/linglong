@@ -189,13 +189,6 @@
     </nav>
     <div class="w-full sm:ml-56 text-base text-black">
       <div class="container sm:mx-auto sm:py-8">
-        <loading-bar
-	class="someClass"
-	id="someId"
-	:progress=10
-	direction="left"
-	error="true">
-</loading-bar>
         <transition name="fade" mode="out-in">
           <router-view />
         </transition>
