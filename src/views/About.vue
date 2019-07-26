@@ -5,7 +5,7 @@
         I am an aspiring Web Developer and Designer living in Nairobi, Kenya. My background is in healthcare consulting but I am looking to implement my love for design into a new career.
         Happiness is always going to be the most important thing to me. Happiness is easy. A lot of people might say “Well, if it’s easy, then it probably isn’t worth anything.” Wrong – life should be easy. If it’s not easy, then you might be doing it wrong.
         Where I'm From
-        I’m from a juba South Sudan and I have lived all around East Africa .
+        I’m from juba South Sudan and I have lived all around East Africa .
         More About Me
         What are your favorite hobbies?
         My favorite hobbies are coding ,design and music, Football and Anime,
@@ -16,7 +16,7 @@
       <div class="mt-4 items-center justify-center">
         <p class="text-gray-500">Get to know me more:</p>
         <div class="flex items-center justify-center mt-8">
-          <a href="#" class="mr-3">
+          <a href="https://www.facebook.com/yungsteviemorlex" class="mr-3">
             <svg
               class="feather feather-facebook w-16 h-16 text-facebook stroke-current"
               viewBox="0 0 24 24"
@@ -32,7 +32,7 @@
               <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
             </svg>
           </a>
-          <a href="#" class="mr-3">
+          <a href="https://twitter.com/stephen_vicson" class="mr-3">
             <svg
               viewBox="0 0 24 24"
               class="feather feather-twitter w-16 h-16 text-twitter stroke-current"
@@ -50,7 +50,7 @@
               />
             </svg>
           </a>
-          <a href="#" class>
+          <a href="https://www.instagram.com/morlex2one/" class>
             <svg
               viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"

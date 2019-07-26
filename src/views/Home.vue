@@ -1,7 +1,7 @@
 <template>
   <div class="relative home">
     <div class="w-full md:flex-auto mt-4 lg:mt-0">
-      <video
+     <video
         class="min-w-full lg:min-h-full lg:top-0 lg:left-0 z-0 bg-cover rounded-lg mb-12"
         width="300"
         height="150"
@@ -862,5 +862,12 @@
 </template>
 
 <script>
-export default {}
+export default {
+data() {
+    return {
+      video: "https://youtu.be/XMZcjdK4Vuk"
+
+    };
+  },
+}
 </script>

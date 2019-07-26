@@ -206,7 +206,7 @@
         <div>
           <ul class="flex items-center justify-center">
             <li class="mr-3">
-              <a href="#">
+              <a href="https://www.facebook.com/yungsteviemorlex">
                 <svg
                   class="feather feather-facebook text-facebook stroke-current"
                   xmlns="http://www.w3.org/2000/svg"
@@ -223,7 +223,7 @@
               </a>
             </li>
             <li class="mr-3">
-              <a href="#">
+              <a href="https://twitter.com/stephen_vicson">
                 <svg
                   class="feather feather-twitter text-twitter stroke-current"
                   xmlns="http://www.w3.org/2000/svg"
@@ -242,7 +242,7 @@
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://github.com/morlexlolo">
                 <svg
                   class="feather feather-github text-github stroke-current"
                   xmlns="http://www.w3.org/2000/svg"
@@ -271,7 +271,8 @@ export default {
   props: [],
   data() {
     return {
-      isOpen: false
+      isOpen: false,
+
     };
   },
   methods: {
